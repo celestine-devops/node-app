@@ -1,4 +1,4 @@
-FROM node:carbons
+FROM node:carbon
 
 
 # Create app directory
